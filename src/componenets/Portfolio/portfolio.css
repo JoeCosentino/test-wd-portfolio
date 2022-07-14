@@ -1,0 +1,26 @@
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 25px;
+    background-color: lightcyan;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}
+
+.projects {
+    margin: 15px;
+    width: 30%;
+}
+
+.projects p,
+.projects h3 {
+    justify-self: center;
+    padding: 0 5px;
+}
+
+img {
+    justify-content: center;
+    margin: 10px
+}
