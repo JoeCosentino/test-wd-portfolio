@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-wd-portfolio/static/css/main.fe61e305.css",
-    "main.js": "/test-wd-portfolio/static/js/main.961a53de.js",
+    "main.js": "/test-wd-portfolio/static/js/main.3bdcbd4c.js",
     "static/js/787.018622e3.chunk.js": "/test-wd-portfolio/static/js/787.018622e3.chunk.js",
     "static/media/selfie.jpg": "/test-wd-portfolio/static/media/selfie.6266ff8321d71d868e1f.jpg",
     "static/media/0.PNG": "/test-wd-portfolio/static/media/0.34a4439134bbcf460429.PNG",
@@ -10,11 +10,11 @@
     "static/media/Joe Cosentino Web Dev Resume 2022.pdf": "/test-wd-portfolio/static/media/Joe Cosentino Web Dev Resume 2022.9a92d2f591e2ceecce2e.pdf",
     "index.html": "/test-wd-portfolio/index.html",
     "main.fe61e305.css.map": "/test-wd-portfolio/static/css/main.fe61e305.css.map",
-    "main.961a53de.js.map": "/test-wd-portfolio/static/js/main.961a53de.js.map",
+    "main.3bdcbd4c.js.map": "/test-wd-portfolio/static/js/main.3bdcbd4c.js.map",
     "787.018622e3.chunk.js.map": "/test-wd-portfolio/static/js/787.018622e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe61e305.css",
-    "static/js/main.961a53de.js"
+    "static/js/main.3bdcbd4c.js"
   ]
 }
