@@ -4,13 +4,14 @@ This is a README file for my WebDev Portfolio, completed by Joey Cosentino
 
 ## Important Links
 
-* main repository link: https://github.com/JoeCosentino/webdev-portfolio
+* main repository link: https://github.com/JoeCosentino/test-wd-portfolio
+* Deployed URL: https://joecosentino.github.io/test-wd-portfolio/
 
 ## To Download
 
 * you can download these files to your local computer using either:
-    1. SSH: git@github.com:JoeCosentino/webdev-portfolio.git
-    2. HTTPS: https://github.com/JoeCosentino/webdev-portfolio.git
+    1. SSH: git@github.com:JoeCosentino/test-wd-portfolio.git
+    2. HTTPS: https://github.com/JoeCosentino/test-wd-portfolio.git
 
 ## Collaboraters
 
