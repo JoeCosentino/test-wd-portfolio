@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/webdev-portfolio/static/css/main.fe61e305.css",
-    "main.js": "/webdev-portfolio/static/js/main.78d469a9.js",
-    "static/js/787.c0c5c760.chunk.js": "/webdev-portfolio/static/js/787.c0c5c760.chunk.js",
-    "static/media/selfie.jpg": "/webdev-portfolio/static/media/selfie.6266ff8321d71d868e1f.jpg",
-    "static/media/0.PNG": "/webdev-portfolio/static/media/0.34a4439134bbcf460429.PNG",
-    "static/media/1.PNG": "/webdev-portfolio/static/media/1.d1c0aa4c777be5cb90c1.PNG",
-    "static/media/2.PNG": "/webdev-portfolio/static/media/2.fc99cfceacfe0e0a69ce.PNG",
-    "static/media/Joe Cosentino Web Dev Resume 2022.pdf": "/webdev-portfolio/static/media/Joe Cosentino Web Dev Resume 2022.9a92d2f591e2ceecce2e.pdf",
-    "index.html": "/webdev-portfolio/index.html",
-    "main.fe61e305.css.map": "/webdev-portfolio/static/css/main.fe61e305.css.map",
-    "main.78d469a9.js.map": "/webdev-portfolio/static/js/main.78d469a9.js.map",
-    "787.c0c5c760.chunk.js.map": "/webdev-portfolio/static/js/787.c0c5c760.chunk.js.map"
+    "main.css": "/test-wd-portfolio/static/css/main.fe61e305.css",
+    "main.js": "/test-wd-portfolio/static/js/main.961a53de.js",
+    "static/js/787.018622e3.chunk.js": "/test-wd-portfolio/static/js/787.018622e3.chunk.js",
+    "static/media/selfie.jpg": "/test-wd-portfolio/static/media/selfie.6266ff8321d71d868e1f.jpg",
+    "static/media/0.PNG": "/test-wd-portfolio/static/media/0.34a4439134bbcf460429.PNG",
+    "static/media/1.PNG": "/test-wd-portfolio/static/media/1.d1c0aa4c777be5cb90c1.PNG",
+    "static/media/2.PNG": "/test-wd-portfolio/static/media/2.fc99cfceacfe0e0a69ce.PNG",
+    "static/media/Joe Cosentino Web Dev Resume 2022.pdf": "/test-wd-portfolio/static/media/Joe Cosentino Web Dev Resume 2022.9a92d2f591e2ceecce2e.pdf",
+    "index.html": "/test-wd-portfolio/index.html",
+    "main.fe61e305.css.map": "/test-wd-portfolio/static/css/main.fe61e305.css.map",
+    "main.961a53de.js.map": "/test-wd-portfolio/static/js/main.961a53de.js.map",
+    "787.018622e3.chunk.js.map": "/test-wd-portfolio/static/js/787.018622e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe61e305.css",
-    "static/js/main.78d469a9.js"
+    "static/js/main.961a53de.js"
   ]
 }
