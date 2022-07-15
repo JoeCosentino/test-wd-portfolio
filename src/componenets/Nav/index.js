@@ -19,7 +19,7 @@ function Nav(props) {
     return (
         <section className='header'>
             <h2>
-                <a href='/'>Giuseppe Cosentino</a>
+                <a href='https://joecosentino.github.io/test-wd-portfolio/'>Giuseppe Cosentino</a>
             </h2>
             <ul>
                 <li className={aboutSelected && 'active'}>
