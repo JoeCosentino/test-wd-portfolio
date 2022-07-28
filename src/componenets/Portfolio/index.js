@@ -5,14 +5,14 @@ function Portfolio() {
 
     const [projects] = useState([
         {
+            name: 'Cineflex',
+            description: 'Full stack movie blog application',
+            link: 'https://frozen-oasis-34307.herokuapp.com/'
+        },
+        {
             name: 'Tech Me About It',
             description: 'Full stack social netowrk application',
             link: 'https://serene-fortress-25326.herokuapp.com/'
-        },
-        {
-            name: 'Where My Money At',
-            description: 'Budget tracker app that utilizes mongo',
-            link: 'https://pristine-dry-tortugas-06174.herokuapp.com/'
         },
         {
             name: 'Team Profile Generator',
